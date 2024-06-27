@@ -49,6 +49,6 @@ QuizQuestion('Window is to pane as book is to',[
     'minerals', 'tools', 'gold', 'soil'
   ]),
   QuizQuestion('Author is to book as composer is to', [
-    'music', 'symphony', 'melody', 'note'
+    'music', 'symphony', 'melody', 'notebook'
   ])
 ];
